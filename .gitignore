@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+#Stuff I'm adding
+bin/
+.*.sw[a-z]
+*~
+\#*\#
+.DS_Store
